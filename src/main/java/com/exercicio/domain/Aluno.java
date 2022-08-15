@@ -1,5 +1,6 @@
 package com.exercicio.domain;
 
+
 import lombok.Data;
 
 import javax.persistence.Column;
